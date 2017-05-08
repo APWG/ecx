@@ -18,7 +18,7 @@ We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-cli
 <h2>Repositories</h2>
 <ul>
 <li>Pull data from eCX and export into Splunk</li>
-<li>Pull data from eCX and export into Syslog for</li>
+<li>Pull data from eCX and export into Syslog</li>
 <li>CSV export with a date range</li>
 <li>Import CSV files on the command line</li>
 <li>Single item import and export</li>
