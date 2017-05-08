@@ -5,6 +5,10 @@ At the eCrime 2017 conference in Scottsdale, the APWG Steering Committee agreed 
 <br>
 More specifically, this is code written by members that they can run on their own systems to access the eCX API.<br> 
 <br>
+<br>
+<h2>Access</h2>
+This is a public repository where anyone can download and use the code. To submit a new repository, or to gain access to contribute to an existing repository please email guhan@apwg.org.<br>
+<br>
 <h2>Repositories</h2>
 <ul>
 <li>Official eCX API Client written in PHP</li>
