@@ -1,10 +1,10 @@
 # ecx-code
 
 <h2>Overview</h2>
-At the eCrime 2017 conference in Scottsdale, the APWG Steering Committee agreed to create a GitHub respository where APWG Members and Researchers could share code that they use to access the eCrime eXchange (eCX) API. 
+At the eCrime 2017 conference in Scottsdale, the APWG Steering Committee agreed to create a GitHub respository where APWG Members and Researchers could share code that they use to access the eCrime eXchange (eCX) API.<br>
 <br>
-More specifically, this is code written by members that they can run on their own systems to access the eCX API. 
-
+More specifically, this is code written by members that they can run on their own systems to access the eCX API.<br> 
+<br>
 <h2>Repositories</h2>
 <ul>
 <li>Pull data from eCX and export into Splunk</li>
