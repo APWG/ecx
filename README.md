@@ -7,6 +7,7 @@ More specifically, this is code written by members that they can run on their ow
 <br>
 <h2>Repositories</h2>
 <ul>
+<li>Official eCX API Client written in PHP</li>
 <li>Pull data from eCX and export into Splunk</li>
 <li>Pull data from eCX and export into Syslog for</li>
 <li>CSV export with a date range</li>
