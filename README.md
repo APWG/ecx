@@ -4,21 +4,20 @@
 At the eCrime 2017 conference in Scottsdale, the APWG Steering Committee agreed to create a GitHub respository where APWG Members and Researchers could share code that they use to access the eCrime eXchange (eCX) API.<br>
 <br>
 More specifically, this is code written by members that they can run on their own systems to access the eCX API.<br> 
-<br>
 <h2>Access</h2>
 This is a public repository where anyone can download and use the code. <br>
 <br>
 To gain access to contribute to an existing repository, or to submit to a new repository please email <a href="mailto:guhan@apwg.org">guhan@apwg.org</a>.<br>
-<br>
 <h2>Getting Started</h2>
 You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
 <br>
 We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-client">eCX API client</a> written by the developers at eCX. It is written in the PHP programming language.<br>
-<br>
 <h2>Testing</h2>
 We have a development machine/sandbox for the eCX API located at http://deployment.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
 <br>
 <h2>Repositories</h2>
+We are especially looking for development of the following modules. If you have any relevant code, please contact us and we will setup the repository and give you access as a submitter. 
+<br>
 <ul>
 <li>Pull data from eCX and export into Splunk</li>
 <li>Pull data from eCX and export into Syslog</li>
