@@ -11,9 +11,12 @@ This is a public repository where anyone can download and use the code. <br>
 To gain access to contribute to an existing repository, or to submit to a new repository please email <a href="mailto:guhan@apwg.org">guhan@apwg.org</a>.<br>
 <br>
 <h2>Getting Started</h2>
-You can find documenation about the eCX API <a href="https://apwg.github.io/ecx-api-client/">here</a>.<br>
+You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
 <br>
 We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-client">eCX API client</a> written by the developers at eCX. It is written in the PHP programming language.<br>
+<br>
+<h2>Testing</h2>
+We have a development machine/sandbox for the eCX API located at http://deployment.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
 <br>
 <h2>Repositories</h2>
 <ul>
