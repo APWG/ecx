@@ -16,7 +16,9 @@ We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-cli
 We have a development machine/sandbox for the eCX API located at http://deployment.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
 <br>
 <h2>Repositories</h2>
-We are especially looking for development of the following modules. If you have any relevant code, please contact us and we will setup the repository and give you access as a submitter. 
+We are especially looking for development of the following modules. <br>
+<br>
+If you have any relevant code, please contact us and we will setup the repository and access for you as a submitter. 
 <br>
 <br>
 <ul>
