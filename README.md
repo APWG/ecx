@@ -26,7 +26,6 @@ If you have any relevant code, please <a href="mailto:support@ecrimex.net">conta
 <br>
 <h2>Repositories</h2>
 We are especially looking for development of the following modules. <br>
-<br>
 <ul>
 <li><a href="https://github.com/APWG/ecx-to-splunk">Pull data from eCX and export into Splunk</a></li>
 <li><a href="https://github.com/APWG/ecx-to-syslog">Pull data from eCX and export into Syslog</a></li>
@@ -40,6 +39,4 @@ We are especially looking for development of the following modules. <br>
 </ul>
 <br>
 <br>
-<h2>Thank You</h2>
-We appreciate your help in fighting online crime and making the world a better place!
 
