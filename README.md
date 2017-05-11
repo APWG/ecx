@@ -13,7 +13,7 @@ We can:
 <ul>
 <li>Link to your code or</li> 
 <li>Fork your respository here or</li>
-<li>Setup a new repository here and set you up as a submitter or</li>
+<li>Create a new repository and set you up as a submitter or</li>
 <li>We are open to your suggestions :)</li>
 </ul>
 <h2>Getting Started</h2>
