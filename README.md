@@ -32,8 +32,8 @@ We are especially looking for development of the following modules. <br>
 <ul>
 <li><a href="https://github.com/APWG/ecx-to-splunk">Pull data from eCX and export into Splunk</a></li>
 <li><a href="https://github.com/APWG/ecx-to-syslog">Pull data from eCX and export into Syslog</a></li>
-<li><a href="https://github.com/APWG/">CSV export with a date range</a></li>
-<li><a href="https://github.com/APWG/">Bulk upload</a></li>
+<li><a href="https://github.com/APWG/csv-export-with-date-range">CSV export with a date range</a></li>
+<li><a href="https://github.com/APWG/bulk-upload-to-ecx">Bulk upload</a></li>
 <li><a href="https://github.com/APWG/">Import CSV files on the command line</a></li>
 <li><a href="https://github.com/APWG/">Single item import and export</a></li>
 <li><a href="https://github.com/APWG/">Pull data that is newer than last pull (must store date of last pull)</a></li>
