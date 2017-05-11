@@ -25,10 +25,10 @@ If you have any relevant code, please contact us and we will setup the repositor
 <li>Pull data from eCX and export into Splunk</li>
 <li>Pull data from eCX and export into Syslog</li>
 <li>CSV export with a date range</li>
+<li>Bulk upload</li>
 <li>Import CSV files on the command line</li>
 <li>Single item import and export</li>
 <li>Pull data that is newer than last pull (must store date of last pull)</li>
-<li>Pull multiple pages of data and export (CSV for example).  This will show how to use our pagination API</li>
-<li>Append Important data to an existing item</li>
+<li>Pagination API Examples (Pull subset of pages into CSV)</li>
 <li>Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</li>
 </ul>
