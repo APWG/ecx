@@ -17,7 +17,7 @@ We can:
 <li>We are open to your suggestions :)</li>
 </ul>
 <h2>Licensing</h2>
-We leave this up to the code creator and contributors. Please check the specific license located within the repository you desire.
+We leave this up to the code creator and contributors. Please check within the each code repository for the associated license. 
 <br>
 <br>
 <h2>Getting Started</h2>
