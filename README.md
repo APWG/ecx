@@ -13,7 +13,7 @@ You can find documentation about the eCX API <a href="https://www.ecrimex.net/ap
 <br>
 We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-client">eCX API client</a> written by the developers at eCX. It is written in the PHP programming language.<br>
 <h2>Testing</h2>
-We have a development machine/sandbox for the eCX API located at http://api.sandbox.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
+We have a development machine/sandbox for the eCX API located at https://api.sandbox.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
 <br>
 <h2>How to get your code listed here</h2>
 If you have any relevant code, please <a href="mailto:support@ecrimex.net">contact us</a>.<br>
