@@ -16,6 +16,10 @@ We can:
 <li>Create a new repository and set you up as a submitter or</li>
 <li>We are open to your suggestions :)</li>
 </ul>
+<h2>Licensing</h2>
+We leave this up to the code creator and contributors. Please check the specific license located within the repository you desire.
+<br>
+<br>
 <h2>Getting Started</h2>
 You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
 <br>
@@ -40,4 +44,6 @@ We are especially looking for development of the following modules: <br>
 </ul>
 <br>
 <br>
+<h2>Questions or Concerns?</h2>
+Please <a href="mailto:support@ecrimex.net">contact us</a>.
 
