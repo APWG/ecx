@@ -21,7 +21,7 @@ If you have any relevant code, please <a href="mailto:support@ecrimex.net">conta
 <li>Link to your code or</li> 
 <li>Fork your respository here or</li>
 <li>Setup a new repository here and set you up as a submitter or</li>
-<li>we are open to your suggestions :)<li>
+<li>we are open to your suggestions :)</li>
 </ul>
 <br>
 <br>
