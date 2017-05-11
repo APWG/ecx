@@ -16,7 +16,6 @@ We can:
 <li>Setup a new repository here and set you up as a submitter or</li>
 <li>We are open to your suggestions :)</li>
 </ul>
-<br>
 <h2>Getting Started</h2>
 You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
 <br>
