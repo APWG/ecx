@@ -22,13 +22,13 @@ If you have any relevant code, please contact us and we will setup the repositor
 <br>
 <br>
 <ul>
-<li>Pull data from eCX and export into Splunk</li>
-<li>Pull data from eCX and export into Syslog</li>
-<li>CSV export with a date range</li>
-<li>Bulk upload</li>
-<li>Import CSV files on the command line</li>
-<li>Single item import and export</li>
-<li>Pull data that is newer than last pull (must store date of last pull)</li>
-<li>Pagination API Examples (Pull subset of pages into CSV)</li>
-<li>Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</li>
+<li><a href="https://github.com/APWG/ecx-to-splunk">Pull data from eCX and export into Splunk</a></li>
+<li><a href="https://github.com/APWG/ecx-to-syslog">Pull data from eCX and export into Syslog</a></li>
+<li><a href="https://github.com/APWG/">CSV export with a date range</a></li>
+<li><a href="https://github.com/APWG/">Bulk upload</a></li>
+<li><a href="https://github.com/APWG/">Import CSV files on the command line</a></li>
+<li><a href="https://github.com/APWG/">Single item import and export</a></li>
+<li><a href="https://github.com/APWG/">Pull data that is newer than last pull (must store date of last pull)</a></li>
+<li><a href="https://github.com/APWG/">Pagination API Examples (Pull subset of pages into CSV)</a></li>
+<li><a href="https://github.com/APWG/">Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</a></li>
 </ul>
