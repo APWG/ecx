@@ -34,11 +34,11 @@ We are especially looking for development of the following modules. <br>
 <li><a href="https://github.com/APWG/ecx-to-syslog">Pull data from eCX and export into Syslog</a></li>
 <li><a href="https://github.com/APWG/csv-export-with-date-range">CSV export with a date range</a></li>
 <li><a href="https://github.com/APWG/bulk-upload-to-ecx">Bulk upload</a></li>
-<li><a href="https://github.com/APWG/">Import CSV files on the command line</a></li>
-<li><a href="https://github.com/APWG/">Single item import and export</a></li>
-<li><a href="https://github.com/APWG/">Pull data that is newer than last pull (must store date of last pull)</a></li>
-<li><a href="https://github.com/APWG/">Pagination API Examples (Pull subset of pages into CSV)</a></li>
-<li><a href="https://github.com/APWG/">Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</a></li>
+<li><a href="https://github.com/APWG/import-csv-from-command-line">Import CSV files on the command line</a></li>
+<li><a href="https://github.com/APWG/single-item-import-and-export">Single item import and export</a></li>
+<li><a href="https://github.com/APWG/export-data-by-date">Pull data that is newer than last pull (must store date of last pull)</a></li>
+<li><a href="https://github.com/APWG/export-data-by-subset-of-pages">Pagination API Examples (Pull subset of pages into CSV)</a></li>
+<li><a href="https://github.com/APWG/ecx-to-maltego">Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</a></li>
 </ul>
 <br>
 <br>
