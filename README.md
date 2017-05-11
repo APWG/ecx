@@ -16,7 +16,9 @@ We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-cli
 We have a development machine/sandbox for the eCX API located at http://deployment.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
 <br>
 <h2>How to get your code listed here</h2>
-If you have any relevant code, please <a href="mailto:support@ecrimex.net">contact us</a>. We can:
+If you have any relevant code, please <a href="mailto:support@ecrimex.net">contact us</a>.<br>
+<br>
+We can:
 <ul>
 <li>Link to your code or</li> 
 <li>Fork your respository here or</li>
@@ -26,6 +28,7 @@ If you have any relevant code, please <a href="mailto:support@ecrimex.net">conta
 <br>
 <h2>Repositories</h2>
 We are especially looking for development of the following modules. <br>
+<br>
 <ul>
 <li><a href="https://github.com/APWG/ecx-to-splunk">Pull data from eCX and export into Splunk</a></li>
 <li><a href="https://github.com/APWG/ecx-to-syslog">Pull data from eCX and export into Syslog</a></li>
