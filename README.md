@@ -7,7 +7,7 @@ More specifically, this is code written by members that they can run on their ow
 <h2>Access</h2>
 This is a public repository where anyone can download and use the code. <br>
 <br>
-To gain access to contribute to an existing repository, or to submit to a new repository please email <a href="mailto:guhan@apwg.org">guhan@apwg.org</a>.<br>
+To gain access to contribute to an existing repository, or to submit to a new repository please email <a href="mailto:support@ecrimex.net">support@ecrimex.net</a>.<br>
 <h2>Getting Started</h2>
 You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
 <br>
