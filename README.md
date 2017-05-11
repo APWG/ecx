@@ -5,18 +5,9 @@ At the eCrime 2017 conference in Scottsdale, the APWG Steering Committee agreed 
 <br>
 More specifically, this is code written by members that they can run on their own systems to access the eCX API.<br> 
 <h2>Access</h2>
-This is a public repository where anyone can download and use the code. <br>
+This is a public repository where <b>anyone</b> can download and use the code. <br>
 <br>
-To gain access to contribute to an existing repository, or to submit to a new repository please email <a href="mailto:support@ecrimex.net">support@ecrimex.net</a>.<br>
-<h2>Getting Started</h2>
-You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
-<br>
-We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-client">eCX API client</a> written by the developers at eCX. It is written in the PHP programming language.<br>
-<h2>Testing</h2>
-We have a development machine/sandbox for the eCX API located at https://api.sandbox.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
-<br>
-<h2>How to get your code listed here</h2>
-If you have any relevant code, please <a href="mailto:support@ecrimex.net">contact us</a>.<br>
+If you would like your code listed here, please <a href="mailto:support@ecrimex.net">contact us</a>.<br>
 <br>
 We can:
 <ul>
@@ -26,6 +17,14 @@ We can:
 <li>We are open to your suggestions :)</li>
 </ul>
 <br>
+<h2>Getting Started</h2>
+You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
+<br>
+We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-client">eCX API client</a> written by the developers at eCX. It is written in the PHP programming language.<br>
+<h2>Testing</h2>
+We have a development machine/sandbox for the eCX API located at https://api.sandbox.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
+<br>
+
 <h2>Repositories</h2>
 We are especially looking for development of the following modules: <br>
 <br>
