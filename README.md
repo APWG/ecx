@@ -21,9 +21,8 @@ If you have any relevant code, please <a href="mailto:support@ecrimex.net">conta
 <li>Link to your code or</li> 
 <li>Fork your respository here or</li>
 <li>Setup a new repository here and set you up as a submitter or</li>
-<li>we are open to your suggestions :)</li>
+<li>We are open to your suggestions :)</li>
 </ul>
-<br>
 <br>
 <h2>Repositories</h2>
 We are especially looking for development of the following modules. <br>
@@ -39,3 +38,8 @@ We are especially looking for development of the following modules. <br>
 <li><a href="https://github.com/APWG/">Pagination API Examples (Pull subset of pages into CSV)</a></li>
 <li><a href="https://github.com/APWG/">Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</a></li>
 </ul>
+<br>
+<br>
+<h2>Thank You</h2>
+We appreciate your help in fighting online crime and making the world a better place!
+
