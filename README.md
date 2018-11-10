@@ -49,7 +49,7 @@ We have a development machine/sandbox for the eCX API located at https://api.san
 <ul>
 <li><a href="https://github.com/APWG/ecx/#">POST a phishing URL to eCX</a></li>
 <li><a href="https://github.com/APWG/ecx/#">POST data to eCX via a bulk CSV uploader</a></li>
-</ul
+</ul>
 <ul>
 <li><a href="https://github.com/APWG/ecx/#">PATCH existing eCX data using ID</a></li>
 <li><a href="https://github.com/APWG/ecx/#">PATCH existing eCX data using URL</a></li>
