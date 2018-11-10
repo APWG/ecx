@@ -39,7 +39,7 @@ We are especially looking for development of the following modules: <br>
 <li><a href="https://github.com/APWG/import-csv-from-command-line">Import CSV files on the command line</a></li>
 <li><a href="https://github.com/APWG/single-item-import-and-export">Single item import and export</a></li>
 <li><a href="https://github.com/APWG/pull-newer-data">Pull data that is newer than last pull (must store date of last pull)</a></li>
-<li><a href="https://github.com/APWG/export-data-by-subset-of-pages">Pagination API Examples (Pull subset of pages into CSV)</a></li>
+<li><a href="https://github.com/APWG/Portfolio">Pagination API Examples (Pull subset of pages into CSV)</a></li>
 <li><a href="https://github.com/APWG/ecx-to-maltego">Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</a></li>
 </ul>
 <br>
