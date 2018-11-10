@@ -29,18 +29,33 @@ We have a development machine/sandbox for the eCX API located at https://api.san
 <br>
 
 <h2>Repositories</h2>
-We are especially looking for development of the following modules: <br>
 <br>
+<h3>Available</h3>
 <ul>
-<li><a href="https://github.com/APWG/ecx-to-splunk">Pull data from eCX and export into Splunk</a></li>
-<li><a href="https://github.com/APWG/ecx-to-syslog">Pull data from eCX and export into Syslog</a></li>
-<li><a href="https://github.com/APWG/csv-export-with-date-range">CSV export with a date range</a></li>
-<li><a href="https://github.com/APWG/bulk-upload-to-ecx">Bulk upload</a></li>
-<li><a href="https://github.com/APWG/import-csv-from-command-line">Import CSV files on the command line</a></li>
-<li><a href="https://github.com/APWG/single-item-import-and-export">Single item import and export</a></li>
-<li><a href="https://github.com/APWG/pull-newer-data">Pull data that is newer than last pull (must store date of last pull)</a></li>
-<li><a href="https://github.com/APWG/ecx-api-pagination-python">Pagination API Examples (Python)</a></li>
-<li><a href="https://github.com/APWG/ecx-to-maltego">Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</a></li>
+<li><a href="https://github.com/APWG/ecx-api-pagination-python">Pagination API Examples, (Python)</a></li>
+</ul>
+<h3>Awaiting Development</h3>
+<p>We've split this up by eCX API REST verbs, GET to grab data, POST to send new data into eCX, and PATCH to update existing data, and some extended examples</p>
+<ul>
+<li><a href="https://github.com/APWG/ecx/#">GET data from eCX using a date range</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET data from eCX via command line</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET all data from eCX that is newer (date modified) than the last GET</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET all data from eCX that is newer (ID) than the last GET</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a single phish entity by ID</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET data from eCX, and export into Splunk</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET data from eCX, and export into Syslog</a></li>
+<li><a href="https://github.com/APWG/ecx/#">Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</a></li>
+</ul>
+<ul>
+<li><a href="https://github.com/APWG/ecx/#">POST a phishing URL to eCX</a></li>
+<li><a href="https://github.com/APWG/ecx/#">POST data to eCX via a bulk CSV uploader</a></li>
+</ul
+<ul>
+<li><a href="https://github.com/APWG/ecx/#">PATCH existing eCX data using ID</a></li>
+<li><a href="https://github.com/APWG/ecx/#">PATCH existing eCX data using URL</a></li>
+</ul>
+<ul>
+<li><a href="https://github.com/APWG/ecx/#">Find an IP pulled out of /phish in the /mal_ip endpoint (* must have access into both modules)</a></li>
 </ul>
 <br>
 <br>
