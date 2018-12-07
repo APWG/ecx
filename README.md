@@ -1,31 +1,20 @@
 # eCrime eXchange (eCX) Code Repository
 
 <h2>Overview</h2>
-At the eCrime 2017 conference in Scottsdale, the APWG Steering Committee agreed to create a GitHub respository where APWG Members and Researchers could share code that they use to access the eCrime eXchange (eCX) API.<br>
+
 <br>
-More specifically, this is code written by members that they can run on their own systems to access the eCX API.<br> 
-<h2>Access</h2>
-This is a public repository where <b>anyone</b> can download and use the code. <br>
+A repository of code and command line examples to interact with the APWG's eCrime eXchange API (eCX API).  Each script requires an eCX API token key to provide access to the eCX APi<br> 
+
+If you hae code to contribute via a fork, please <a href="mailto:support@ecrimex.net">contact us</a>.<br>
 <br>
-If you would like your code listed here, please <a href="mailto:support@ecrimex.net">contact us</a>.<br>
-<br>
-We can:
-<ul>
-<li>Link to your code or</li> 
-<li>Fork your respository here or</li>
-<li>Create a new repository and set you up as a submitter or</li>
-<li>We are open to your suggestions :)</li>
-</ul>
-<h2>Licensing</h2>
-We leave this up to the code creator and contributors. Please check within the each code repository for the associated license. 
-<br>
+
 <br>
 <h2>Getting Started</h2>
 You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
 <br>
-We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-client">eCX API client</a> written by the developers at eCX. It is written in the PHP programming language.<br>
+We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-client">eCX API client</a> written in PHP by the developers of eCX.<br>
 <h2>Testing</h2>
-We have a development machine/sandbox for the eCX API located at https://api.sandbox.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
+We have a sandbox for the eCX API located at https://api.sandbox.ecrimex.net for you to test your code on.  It is updated nightly at midnight GMT with new data from production. 
 <br>
 
 <h2>Repositories</h2>
