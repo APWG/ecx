@@ -36,7 +36,7 @@ We have a development machine/sandbox for the eCX API located at https://api.san
 <li><a href="https://github.com/APWG/get-cli-curl">Example of how to GET data from the eCX /phish endpoint using cURL on the command line</a></li>
 <li><a href="https://github.com/APWG/get-cli-wget">Example of how to GET data from the eCX /phish endpoint using wget on the command line</a></li>
 <li><a href="https://github.com/APWG/ecx-api-pagination-python">GET data from eCX, using pagination (Python)</a></li>
-<li><a href="https://github.com/APWG/ecx/csv-export-with-date-range">GET CSV data from eCX using a date range</a></li>
+<li><a href="https://github.com/APWG/csv-export-with-date-range">GET CSV data from eCX using a date range</a></li>
 
 </ul>
 <h4>POST</h4>
