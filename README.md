@@ -31,18 +31,42 @@ We have a development machine/sandbox for the eCX API located at https://api.san
 <h2>Repositories</h2>
 <br>
 <h3>Available</h3>
+<h4>GET</h4>
 <ul>
-<li><a href="https://github.com/APWG/ecx-api-pagination-python">Pagination API Examples, (Python)</a></li>
-  <li><a href="https://github.com/APWG/crypto-bulk-import-csv-from-command-line">Bulk upload CSV data into the Virtual Currency Workgroup</li>
+<li><a href="https://github.com/APWG/get-cli-curl">Example of how to GET data from the eCX /phish endpoint using cURL on the command line</a></li>
+<li><a href="https://github.com/APWG/get-cli-wget">Example of how to GET data from the eCX /phish endpoint using wget on the command line</a></li>
+<li><a href="https://github.com/APWG/ecx-api-pagination-python">GET data from eCX, using pagination (Python)</a></li>
+<li><a href="https://github.com/APWG/ecx/csv-export-with-date-range">GET CSV data from eCX using a date range</a></li>
+
+</ul>
+<h4>POST</h4>
+<ul>
+<li><a href="https://github.com/APWG/post-cli-curl">Example of how to POST data to eCX /phish endpoint using cURL on the command line</a></li>
+<li><a href="https://github.com/APWG/post-cli-wget">Example of how to POST data to eCX /phish endpoint using wget on the command line</a></li>
+<li><a href="https://github.com/APWG/crypto-bulk-import-csv-from-command-line">Bulk upload CSV data into the Virtual Currency Workgroup</li>
+</ul>
+<h4>PATCH</h4>
+<ul>
+
 </ul>
 <h3>Awaiting Development</h3>
 <p>We've split this up by eCX API REST verbs, GET to grab data, POST to send new data into eCX, and PATCH to update existing data, and some extended examples</p>
 <ul>
-<li><a href="https://github.com/APWG/ecx/#">GET data from eCX using a date range</a></li>
-<li><a href="https://github.com/APWG/ecx/#">GET data from eCX via command line</a></li>
+
 <li><a href="https://github.com/APWG/ecx/#">GET all data from eCX that is newer (date modified) than the last GET</a></li>
 <li><a href="https://github.com/APWG/ecx/#">GET all data from eCX that is newer (ID) than the last GET</a></li>
 <li><a href="https://github.com/APWG/ecx/#">GET a single phish entity by ID</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a single phish entity by exact URL</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a single phish entity by wildcard URL</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by TLD</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by Domain</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by wilcard Domain</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by ASN</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by Brand</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by wildcard Brand</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by ASN</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by IP</a></li>
+<li><a href="https://github.com/APWG/ecx/#">GET a list of phish by CIDR</a></li>
 <li><a href="https://github.com/APWG/ecx/#">GET data from eCX, and export into Splunk</a></li>
 <li><a href="https://github.com/APWG/ecx/#">GET data from eCX, and export into Syslog</a></li>
 <li><a href="https://github.com/APWG/ecx/#">Maltego Xforms/scripts to pull data elements from eCX and visualize in Maltego</a></li>
@@ -59,6 +83,9 @@ We have a development machine/sandbox for the eCX API located at https://api.san
 <li><a href="https://github.com/APWG/ecx/#">Find an IP pulled out of /phish in the /mal_ip endpoint (* must have access into both modules)</a></li>
 </ul>
 <br>
+<h4>eCX API Documentation</h4>
+The eCX API documentation is built in OpenAPI/Swagger format
+
 <br>
 <h2>Questions or Concerns?</h2>
 Please <a href="mailto:support@ecrimex.net">contact us</a>.
