@@ -4,8 +4,8 @@
 
 <br>
 A repository of code and command line examples to interact with the APWG's eCrime eXchange API (eCX API).  Each script requires an eCX API token key to provide access to the eCX APi<br> 
-
-If you hae code to contribute via a fork, please <a href="mailto:support@ecrimex.net">contact us</a>.<br>
+<BR>
+If you have code that you'd like to contribute, please <a href="mailto:support@ecrimex.net">contact us</a> at support@ecrimex.net<br>
 <br>
 
 <br>
