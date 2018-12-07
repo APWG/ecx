@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 
 <br>
-A repository of code and command line examples to interact with the APWG's eCrime eXchange API (eCX API).  Each script requires an eCX API token key to provide access to the eCX API<br> 
+A repository of code and command line examples to interact with the APWG's eCrime eXchange API (eCX API).  Each script requires an eCX API token key to allow access to the eCX API<br> 
 <BR>
 If you have code that you'd like to contribute, please <a href="mailto:support@ecrimex.net">contact us</a> at support@ecrimex.net<br>
 <br>
@@ -65,8 +65,9 @@ We have a sandbox for the eCX API located at https://api.sandbox.ecrimex.net for
 <li><a href="https://github.com/APWG/ecx/#">POST data to eCX via a bulk CSV uploader</a></li>
 </ul>
 <ul>
-<li><a href="https://github.com/APWG/ecx/#">PATCH existing eCX data using ID</a></li>
-<li><a href="https://github.com/APWG/ecx/#">PATCH existing eCX data using URL</a></li>
+<li><a href="https://github.com/APWG/ecx/#">PATCH existing phish as active</a></li>
+<li><a href="https://github.com/APWG/ecx/#">PATCH existing phish as inactive</a></li>
+<li><a href="https://github.com/APWG/ecx/#">PATCH existing phish with new confidence level</a></li>
 </ul>
 <ul>
 <li><a href="https://github.com/APWG/ecx/#">Find an IP pulled out of /phish in the /mal_ip endpoint (* must have access into both modules)</a></li>
