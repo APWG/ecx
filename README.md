@@ -33,6 +33,7 @@ We have a development machine/sandbox for the eCX API located at https://api.san
 <h3>Available</h3>
 <ul>
 <li><a href="https://github.com/APWG/ecx-api-pagination-python">Pagination API Examples, (Python)</a></li>
+  <li><a href="https://github.com/APWG/crypto-bulk-import-csv-from-command-line">Bulk upload CSV data into the Virtual Currency Workgroup</li>
 </ul>
 <h3>Awaiting Development</h3>
 <p>We've split this up by eCX API REST verbs, GET to grab data, POST to send new data into eCX, and PATCH to update existing data, and some extended examples</p>
