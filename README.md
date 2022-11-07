@@ -1,16 +1,16 @@
-# eCrime eXchange (eCX) Code Repository
+# eCrime eXchange (eCX) Code and Documentation Repository
 
 <h2>Overview</h2>
 
 <br>
-A repository of code and command line examples to interact with the APWG's eCrime eXchange API (eCX API).  Each script requires an eCX API token key to allow access to the eCX API<br> 
+This is a repository of documenation, code, and command line examples to interact with the APWG's eCrime eXchange API (eCX API).  Each script requires an eCX API token key to allow access to the eCX API<br> 
 <BR>
 If you have code that you'd like to contribute, please <a href="mailto:support@ecrimex.net">contact us</a> at support@ecrimex.net<br>
 <br>
 
 <br>
 <h2>Getting Started</h2>
-You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a>.<br>
+You can find documentation about the eCX API <a href="https://www.ecrimex.net/api">here</a> or in the document titled "eCx API Guide.<br>
 <br>
 We also suggest you take a look the <a href="https://github.com/APWG/ecx-api-client">eCX API client</a> written in PHP by the developers of eCX.<br>
 <h2>Testing</h2>
